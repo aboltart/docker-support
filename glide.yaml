@@ -1,0 +1,6 @@
+package: github.com/docker-support
+import:
+- package: github.com/spf13/viper
+- package: github.com/fgrehm/go-dockerpty
+- package: github.com/fsouza/go-dockerclient
+- package: github.com/aboltart/go-support
